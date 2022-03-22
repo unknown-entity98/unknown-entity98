@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @unknown-entity98
 - # Thats what I'm called
 - # 👀 I’m interested in ...
-- ML, Python, Networking. But I'm open to try new things.
+- ML, Python, Networking. 
+- I surf interesting tech as well.
+-  But I'm open to try new things.
 - # 🌱 I’m currently learning ...
 - Lemme find their names, hold on 
 - # 💞️ I’m looking to collaborate on ...
