@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @unknown-entity98
-- I'm the `Most Ancient Dream`
-- My days are filled with exploring languages, technologies, ideas
+> I'm the `Most Ancient Dream`
+> My days are filled with exploring languages, technologies, ideas
 - # 👀 I’m interested in ...
-- ML, Python, Networking. 
-- I surf interesting tech as well.
-- I'm open to try new things.
+> ML, Python, Networking. 
+> I surf interesting tech as well.
+> I'm open to try new things.
 
 #I'm good with
 
@@ -16,10 +16,10 @@
 ![java](https://user-images.githubusercontent.com/97030480/210581812-6b5b4e66-ae54-42bc-9605-8cc0bd17bfd4.png)
 ![cpp](https://user-images.githubusercontent.com/97030480/210581794-719dad9d-a2c0-42da-891f-0446524f6d89.png)
 
--  Reinforcement Learning
+>  Reinforcement Learning
 - # 💞️ I’m looking to collaborate on ...
-- IoT 
-- AI applications
+> IoT 
+> AI applications
 - # 📫 How to reach me ... 
 - `you probably cant` 😏
 <!---
