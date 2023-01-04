@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unknown-entity98
+- 👋 Yo, I’m @unknown-entity98
 - I'm the `Most Ancient Dream`
 - My days are filled with exploring languages, technologies, ideas
 > # 👀 I’m interested in ...
@@ -6,7 +6,7 @@
 - I surf interesting tech as well.
 - I'm open to try new things.
 
-> #I'm good with
+> # I'm good with 😉
 
 ![matlab](https://user-images.githubusercontent.com/97030480/210581871-937c4d08-de98-4a0d-b29f-0b9128994639.jpg)
 ![pytho](https://user-images.githubusercontent.com/97030480/210581856-0480e5e7-8025-4e9e-be04-d8bf3db6f1d5.jpg)
