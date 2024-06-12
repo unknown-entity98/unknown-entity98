@@ -5,7 +5,9 @@
   
 > ## 👀 I’m interested in ...
 - AI, Python, Networking, Computer Vision
-- I surf interesting tech as well.
+- GNNs
+- Mathematics (Linear algebra and probability)
+- Linux
 - I'm open to try new things.
 
 > ## Good/Worked with 😉
