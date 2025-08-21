@@ -28,7 +28,7 @@
 - Any interesting AI/ML ideas [please don't assume I'm a web dev 😅]
 
 > ## 📫 How to reach me ... 
-- Here's my official Mail ID: cb.en.u4aie21141@cb.students.amrita.edu
+- Check out my blog ;)
 
 > ## To Look Out For:
 1. I'll soon release a blog page on the my ideas, experience (and rants, I haven't done this in quite a while 👀, well its because I tried to make a simple static site and ended up being terribly disappointed with it)
