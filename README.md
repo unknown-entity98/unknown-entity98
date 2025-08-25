@@ -23,7 +23,8 @@
 -  Rust
   
 > ## 💞️ I’m looking to collaborate on ...
-- LLMs
+- Deep Learning projects
+- Live/deployment work
 - Linux kernel, Rust
 - Any interesting AI/ML ideas [please don't assume I'm a web dev 😅]
 
@@ -31,8 +32,8 @@
 - Check out my blog ;)
 
 > ## To Look Out For:
-1. I'll soon release a blog page on the my ideas, experience (and rants, I haven't done this in quite a while 👀, well its because I tried to make a simple static site and ended up being terribly disappointed with it)
-2. Will also release some posts (informational) 
+1. once in a while do see what I do --> unknown-entity98.github.io 
+2. Will also release informational posts
 <!---
 unknown-entity98/unknown-entity98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
