@@ -32,7 +32,7 @@
 - Check out my blog ;)
 
 > ## To Look Out For:
-1. once in a while do see what I do --> unknown-entity98.github.io 
+1. once in a while do see what I do --> <unknown-entity98.github.io>
 2. Will also release informational posts
 <!---
 unknown-entity98/unknown-entity98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
